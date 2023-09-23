@@ -1,0 +1,6 @@
+apiVersion: v2
+name: neo-fixit
+description: There is my chart of fixit app. NeoStudy.DevOps
+type: application
+version: 0.1.0       # версия чарта 
+appVersion: "1.16.0" # версия приложения в чарте 
